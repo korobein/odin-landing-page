@@ -27,7 +27,8 @@ ul {
 }
 
 li,
-#herotext-sub {
+#herotext-sub,
+#call-sub {
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -154,9 +155,7 @@ li,
 }
 
 #call-sub {
-    font-size: 18px;
     font-weight: 400;
-    color: #e5e7eb;
     padding-top: 10px;
 }
 
